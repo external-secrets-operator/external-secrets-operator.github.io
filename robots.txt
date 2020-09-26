@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://external-secrets-operator.app/sitemap.xml
+Sitemap: https://www.external-secrets-operator.app/sitemap.xml

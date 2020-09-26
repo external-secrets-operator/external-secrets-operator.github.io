@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>External Secrets Operator</title>
-    <link>https://external-secrets-operator.app/</link>
+    <link>https://www.external-secrets-operator.app/</link>
     <description>Recent content on External Secrets Operator</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2020, ESO Team.</copyright><atom:link href="https://external-secrets-operator.app/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2020, ESO Team.</copyright><atom:link href="https://www.external-secrets-operator.app/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
